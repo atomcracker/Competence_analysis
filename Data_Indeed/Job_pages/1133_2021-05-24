@@ -1,0 +1,59 @@
+
+ 
+ 
+ 
+ Senior Autonomous Vehicles Engineer, Vehicle Abstraction Interfaces - Santa Clara, CA - Indeed.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Skip to main content Indeed Home Find jobs Company reviews Find salaries Upload your resume Sign in Employers / Post Job Skip to main content Indeed Home Sign in Find jobs Company reviews Find salaries Employers Create your resume Change country 🇺🇸 United States Help Center Start of main content   
+ 
+ What Where Find Jobs Advanced Job Search Senior Autonomous Vehicles Engineer, Vehicle Abstraction Interfaces NVIDIA 237 reviews Santa Clara, CA NVIDIA 237 reviews Read what people are saying about working here. Job Company Job details Job Type Full-time Full Job Description We  are  now  looking  for  a Senior Software  Engineer  for  Autonomous  Vehicles:
+ Intelligent machines powered by Artificial Intelligence computers that can learn, reason and interact with people are no longer science fiction. Today, a self-driving car powered by AI can meander through a country road at night and find its way. An AI-powered robot can learn motor skills through trial and error — this is truly an extraordinary time and the era of AI has begun.
+ Image recognition and speech recognition — GPU Deep Learning has provided the foundation for machines to learn, perceive, reason and solve problems. The GPU started out as the engine for simulating human creativity, conjuring up the amazing virtual worlds of video games and Hollywood films. Now, Nvidia’s GPU runs Deep Learning algorithms, simulating human intelligence, and acts as the brain of computers, robots and self-driving cars that can perceive and understand the world. Just as human imagination and intelligence are linked, computer graphics and AI come together in our architecture. Two modes of the human brain, two modes of the GPU. This may explain why Nvidia GPUs are used broadly for Deep Learning, and Nvidia is increasingly known as “the AI computing company.” Make the choice to join us today.
+ Our team builds the NVIDIA Drive Software, with the goal to provide a scalable software stack and framework to power autonomous vehicles. We are looking for hands-on software engineers to join us to redefine the way cars drive. As part of the team you will work on our vehicle abstraction layer, the software that interfaces the self driving application with the rest of the systems onboard the vehicle, such as cockpit and visualization, drive-by-wire, UI/UX for user commands, all the way to transport protocols, error notification and handling and logging and recording. You will have the chance to define and develop interfaces and plugins meant to be extended by customers to develop customized solutions around our Drive system and their vehicles.
+ What you will be doing:
+ Design and develop optimal software abstractions and plugin frameworks for real-world interfacing to 3rd party systems exceeding customer requirements.
+ Developing efficient and easy to use mechanisms to improve the integration level of our software in any vehicle.
+ Working on areas such as component abstraction layers, inter-process data sharing and communication.
+ Solidifying existing frameworks and software components and validate with large amounts of real and synthetic the improvements of the computational performance and system utilization.
+ Performing in-vehicle tests, collecting data and completing autonomous drive missions.
+ Developing unit tests, documentation for features, evaluating quality and proposing corrective actions.
+ Developing highly efficient product code in C++, making use of high algorithmic parallelism offered by GPGPU programming (CUDA). Follow quality and safety standards such as defined by MISRA
+ What we need to see in you:
+ MS or higher in computer engineering, computer science or related engineering fields or equivalent experience.
+ 5+ years of relevant industry experience.
+ Excellent C and C++ programming skills
+ Experience developing and debugging multithreaded/distributed applications like multimedia systems, game engines, etc.
+ Strong knowledge of programming and debugging techniques, especially for parallel and distributed architectures.
+ Strong knowledge on Linux, Android, and/or other real-time operating systems.
+ Experience with frameworks for robotics such as ROS and/or for multimedia such as GStreamer
+ Thrive on writing low latency, highly performant code
+ Phenomenal communication and analytical skills.
+ Self-motivated and a great teammate
+ Ways You Can Stand Out From The Crowd:
+ Understanding of embedded architectures
+ Experience on developing software in heterogeneous architectures, including GPUs.
+ Knowledge of automotive systems, notably ADAS applications, AUTOSAR and drive by wire systems.
+ Software development for modern OpenGL (Core Profile) and Linux.
+ Experience with version control systems GIT and build system like CMake/Bazel
+ Be hands-on and work well within a team of algorithm, software and hardware engineers, with a significant level of detail orientation and a penchant for data organization and presentation
+ NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.
+ #deeplearning NVIDIA 30+ days ago original job Report job Apply Now Apply On Company Site Save this job Save this job Senior Engineer jobs in Santa Clara, CA Jobs at NVIDIA in Santa Clara, CA Senior Engineer salaries in Santa Clara, CA Company Info Follow Get job updates from NVIDIA NVIDIA 237 reviews NVIDIA is like no place you’ve ever worked. You’ll solve some of the world’s hardest problems and discover never-before-seen ways to impr... Let employers find you Thousands of employers search for candidates on Indeed Upload your resume Hiring Lab Career Advice Browse Jobs Browse Companies Salaries Find Certifications Indeed Events Work at Indeed Countries About Help Center © 2021 Indeed Do Not Sell My Personal Information Accessibility at Indeed Privacy Center Cookies Privacy Terms Let Employers Find You Upload Your Resume 
+ 
+ 
+ 
+ 
+ 

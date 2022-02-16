@@ -1,0 +1,16 @@
+,Competence_Name,Competence_ID,Value
+0,Knowledge representation and reasoning,CAI_01,0.62
+1,Automated planning and scheduling,CAI_02,0.57
+2,Machine learning,CAI_03,1.00
+3,Natural language processing,CAI_04,0.35
+4,Machine perception,CAI_05,0.60
+5,Computer vision,CAI_06,0.50
+6,Speech recognition,CAI_07,0.40
+7,Robotics,CAI_08,0.45
+8,Affective computing,CAI_09,0.78
+9,Deep learning,CAI_10,0.43
+10,Information retrieval,CAI_11,0.40
+11,Computer science,CAI_12,0.32
+12,Data mining,CAI_14,0.62
+13,Commonsense knowledge,CAI_15,0.10
+14,Intelligent agent,CAI_16,0.87

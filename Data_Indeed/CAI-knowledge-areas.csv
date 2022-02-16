@@ -1,0 +1,17 @@
+,Competence_Name,OLD, ,NEW
+0,Knowledge representation and reasoning,CAI_01,,CKAI_01
+1,Automated planning and scheduling,CAI_02,,CKAI_05
+2,Machine learning,CAI_03,,CKAI_02
+3,Natural language processing,CAI_04,,CKAI_11
+4,Machine perception,CAI_05,,CKAI_10
+5,Computer vision,CAI_06,,CKAI_07
+6,Speech recognition,CAI_07,,CKAI_12
+7,Robotics,CAI_08,,CKAI_13
+8,Affective computing,CAI_09,,CKAI_08
+9,Deep learning,CAI_10,,CKAI_03
+10,Information retrieval,CAI_11,,CKAI_06
+11,Computer science,CAI_12,,CKAI_16
+12,Causality,CAI_13,,CKAI_15
+13,Data mining,CAI_14,,CKAI_04
+14,Commonsense knowledge,CAI_15,,CKAI_14
+15,Intelligent agent,CAI_16,,CKAI_09
