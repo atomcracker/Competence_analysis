@@ -1,5 +1,5 @@
 # Competence_analysis
-Analysis of job vacancies competences for thesis project.
+Data for thesis project.
 
 The Data_Indeed folder contains all the final data, including a dataset containing all the job ID's and relative text links.
 It also includes results from all the different algorithms/models used in the project.
